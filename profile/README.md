@@ -1,4 +1,4 @@
-# Welcome to sekikum's
+# Welcome to sekikum's org
 This is sekikum.
 
 The name sekikum comes from a Japanese animation called となりの関くん.
